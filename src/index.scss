@@ -1,3 +1,9 @@
+@import './styles/Vars.scss';
+
+body {
+    background-color: $color-white;
+}
+
 *,
 *::after,
 *::before {

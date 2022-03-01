@@ -1,1 +1,71 @@
 @import '../../styles/Vars.scss';
+
+.Header {
+    margin-top: 30px;
+
+    &__Inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        &__Logo {
+
+            &__Link {
+                font-family: $font-family-nunito;
+                font-weight: $font-weight-black;
+                font-style: $font-style-normal;
+                font-size: 24px;
+
+                text-decoration: none;
+                color: $color-black;
+            }
+        }
+        
+        &__Nav {
+            
+            &__List {
+                display: flex;
+                align-items: center;
+
+                list-style: none;
+
+                &__Item {
+
+                    &__Link {
+                        font-family: $font-family-nunito;
+                        font-weight: $font-weight-bold;
+                        font-style: $font-style-normal;
+                        font-size: 16px;
+
+                        text-decoration: none;
+                        color: $color-black;
+                        transition: 0.3s;
+
+                        &:hover {
+                            color: rgba(56, 56, 56, 0.699);
+                            transition: 0.3s;
+                        }
+                    }
+                }
+
+                &__Item + &__Item {
+                    margin-left: 25px;
+                }
+            }
+        }
+
+        &__SocialIcons {
+
+            &__Link {
+
+                svg {
+                    width: 30px;
+                }
+            }
+
+            &__Link + &__Link {
+                margin-left: 20px;
+            }
+        }
+    }
+}
