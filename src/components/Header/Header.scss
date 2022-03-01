@@ -46,6 +46,10 @@
                             transition: 0.3s;
                         }
                     }
+
+                    .active {
+                        color: rgba(56, 56, 56, 0.699);
+                    }
                 }
 
                 &__Item + &__Item {

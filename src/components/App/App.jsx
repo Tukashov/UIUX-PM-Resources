@@ -1,11 +1,11 @@
 import './App.scss';
 
-import HomePage from '../../pages/Home';
+import Header from '../Header/Header';
 
 function App() {
     return (
         <>
-            <HomePage />
+            <Header />
         </>
     );
 }
