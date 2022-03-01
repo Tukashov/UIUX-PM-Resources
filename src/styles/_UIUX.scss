@@ -1,1 +1,22 @@
 @import './Vars.scss';
+
+.UIUX-All-Blocks {
+
+    &__Title {
+        font-family: $font-family-nunito;
+        font-weight: $font-weight-bold;
+        font-style: $font-style-normal;
+        font-size: 28px;
+
+        margin: 50px 0 0;
+    }
+
+    &__Desc {
+        font-family: $font-family-nunito;
+        font-weight: $font-weight-regular;
+        font-style: $font-style-normal;
+        font-size: 16px;
+
+        margin-bottom: 10px;
+    }
+}
