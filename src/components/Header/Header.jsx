@@ -20,7 +20,7 @@ function Header() {
                             </li>
 
                             <li className='Header__Inner__Nav__List__Item'>
-                                <NavLink to='/product-menegment' className='Header__Inner__Nav__List__Item__Link'>Product Menegment</NavLink>
+                                <NavLink to='/product-menegment' className='Header__Inner__Nav__List__Item__Link'>Product Management</NavLink>
                             </li>
                         </ul>
                     </nav>
