@@ -14,13 +14,15 @@ function ContentAccardion(props) {
                         expandIcon={<ExpandMoreIcon />}
                         aria-controls="panel1a-content"
                         id="panel1a-header"
+                        className='Summary'
                     >
                         <h4 className='Accardion-Block__Title'>{props.title}</h4>
+                        <h6 className='Accardion-Block__Number'># {props.numbers}</h6>
                     </AccordionSummary>
                     <AccordionDetails>
                         <p className='Accardion-Block__ContentText'>{props.content}</p>
                         
-                        <a className='Accardion-Block__Link' href={props.link}>{props.linktext}</a>
+                        <a className='Accardion-Block__Link' href={props.link} target="_blank" rel="noopener noreferrer">{props.linktext}</a>
                     </AccordionDetails>
                 </Accordion>
             </div>
