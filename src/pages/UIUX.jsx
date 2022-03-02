@@ -233,6 +233,233 @@ function Home() {
                             linktext="control.rocks"
                             numbers="28"
                         />
+
+                        <h1 className='UIUX-All-Blocks__Title'>Шрифты</h1>
+                        <p className='UIUX-All-Blocks__Desc'>Веб-сайты, которые предлагают бесплатные шрифты, а также инструменты на основе шрифтов.👇</p>
+                        
+                        <ContentAccardion
+                            title="Google Fonts"
+                            content="Библиотека около 1000 бесплатных лицензированных семейств шрифтов."
+                            link="https://fonts.google.com/"
+                            linktext="fonts.google.com"
+                            numbers="1"
+                        />
+
+                        <ContentAccardion
+                            title="DaFont"
+                            content="Архив свободно загружаемых шрифтов"
+                            link="https://www.dafont.com/"
+                            linktext="www.dafont.com"
+                            numbers="2"
+                        />
+
+                        <ContentAccardion
+                            title="Use & Modify"
+                            content="Персональный подбор красивых, стильных, панковских, профессиональных, незаконченных, странных шрифтов."
+                            link="https://usemodify.com/"
+                            linktext="usemodify.com"
+                            numbers="3"
+                        />
+
+                        <ContentAccardion
+                            title="1001 Free Fonts"
+                            content="Думаю, название говорит само за себя 😏"
+                            link="https://www.1001freefonts.com/"
+                            linktext="www.1001freefonts.com"
+                            numbers="4"
+                        />
+
+                        <ContentAccardion
+                            title="Font Squirrel"
+                            content="Font Squirrel ищет в Интернете высококачественные, законно бесплатные шрифты"
+                            link="https://www.fontsquirrel.com/"
+                            linktext="www.fontsquirrel.com"
+                            numbers="5"
+                        />
+
+                        <ContentAccardion
+                            title="Font Fabric"
+                            content="Мастерская цифровых шрифтов, создающая розничные шрифты и нестандартную типографику для различных брендов."
+                            link="https://www.fontfabric.com/free-fonts/"
+                            linktext="www.fontfabric.com"
+                            numbers="6"
+                        />
+
+                        <ContentAccardion
+                            title="Tiff"
+                            content="Инструмент сравнения типов, который визуально сопоставляет различия между двумя шрифтами."
+                            link="https://tiff.herokuapp.com/"
+                            linktext="tiff.herokuapp.com"
+                            numbers="7"
+                        />
+
+                        <ContentAccardion
+                            title="TypeKit Practice"
+                            content="Узнайте о методах типографики"
+                            link="https://practice.typekit.com/"
+                            linktext="practice.typekit.com"
+                            numbers="8"
+                        />
+
+                        <ContentAccardion
+                            title="Fontjoy"
+                            content="Создание пары шрифтов в один клик"
+                            link="https://fontjoy.com/"
+                            linktext="fontjoy.com"
+                            numbers="9"
+                        />
+
+                        <ContentAccardion
+                            title="Golden Ratio"
+                            content="Калькулятор золотого сечения"
+                            link="https://grtcalculator.com/"
+                            linktext="grtcalculator.com"
+                            numbers="10"
+                        />
+
+                        <ContentAccardion
+                            title="FontSpark"
+                            content="Откройте для себя лучшие шрифты"
+                            link="https://fontspark.app/"
+                            linktext="fontspark.app"
+                            numbers="11"
+                        />
+
+                        <ContentAccardion
+                            title="FontPair"
+                            content="Помогает вам соединить шрифты Google вместе"
+                            link="https://www.fontpair.co/"
+                            linktext="www.fontpair.co"
+                            numbers="12"
+                        />
+
+                        <ContentAccardion
+                            title="Font Space"
+                            content="Веб-сайт бесплатных шрифтов, ориентированный на дизайнеров, с возможностью быстрого настраиваемого предварительного просмотра."
+                            link="https://www.fontspace.com/"
+                            linktext="www.fontspace.com"
+                            numbers="13"
+                        />
+
+                        <ContentAccardion
+                            title="Abstract Fonts"
+                            content="Бесплатные шрифты для личного и коммерческого использования"
+                            link="https://www.abstractfonts.com/"
+                            linktext="www.abstractfonts.com"
+                            numbers="14"
+                        />
+
+                        <ContentAccardion
+                            title="Free Typography"
+                            content="Список высококачественных шрифтов"
+                            link="https://freetypography.com/"
+                            linktext="freetypography.com"
+                            numbers="15"
+                        />
+
+                        <ContentAccardion
+                            title="Leon Sans"
+                            content="Геометрический шрифт без засечек, созданный с помощью кода"
+                            link="https://github.com/cmiscm/leonsans/"
+                            linktext="github.com-cmiscm.leonsans"
+                            numbers="16"
+                        />
+
+                        <ContentAccardion
+                            title="Lexend"
+                            content="Эмпирически показано, что переменный шрифт значительно улучшает навыки чтения."
+                            link="https://www.lexend.com/"
+                            linktext="www.lexend.com"
+                            numbers="17"
+                        />
+
+                        <ContentAccardion
+                            title="Fonts for Apple Platforms"
+                            content="Получите подробную информацию, платформы и инструменты, необходимые для использования системных шрифтов для платформ Apple в ваших приложениях."
+                            link="https://developer.apple.com/fonts/"
+                            linktext="developer.apple.com"
+                            numbers="18"
+                        />
+
+                        <ContentAccardion
+                            title="SFWin"
+                            content="Шрифты San Francisco для Windows 10 и других платформ"
+                            link="https://github.com/blaisck/sfwin/"
+                            linktext="github.com-blaisck.sfwin"
+                            numbers="19"
+                        />
+
+                        <ContentAccardion
+                            title="Font Flipper"
+                            content="Предварительный просмотр более 800 шрифтов Google поверх ваших собственных дизайнов без необходимости загружать шрифты."
+                            link="https://fontflipper.com/upload"
+                            linktext="fontflipper.com"
+                            numbers="20"
+                        />
+
+                        <ContentAccardion
+                            title="Fonts Arena"
+                            content="Бесплатные кураторские шрифты"
+                            link="https://fontsarena.com/"
+                            linktext="fontsarena.com"
+                            numbers="21"
+                        />
+
+                        <ContentAccardion
+                            title="Befonts"
+                            content="Бесплатные шрифты высокого качества"
+                            link="https://befonts.com/"
+                            linktext="befonts.com"
+                            numbers="22"
+                        />
+
+                        <ContentAccardion
+                            title="Arabic fonts"
+                            content="Арабские шрифты бесплатно"
+                            link="https://arabicfonts.net/"
+                            linktext="arabicfonts.net"
+                            numbers="23"
+                        />
+
+                        <ContentAccardion
+                            title="FontDrop"
+                            content="Простой и удобный способ просмотра содержимого файлов шрифтов"
+                            link="https://fontdrop.info/"
+                            linktext="fontdrop.info"
+                            numbers="24"
+                        />
+
+                        <ContentAccardion
+                            title="Open Foundry"
+                            content="БЕСПЛАТНАЯ платформа для проверенных шрифтов"
+                            link="https://open-foundry.com/"
+                            linktext="open-foundry.com"
+                            numbers="25"
+                        />
+
+                        <ContentAccardion
+                            title="Glyphter"
+                            content="Загрузите свои собственные SVGS и превратите их в файлы шрифтов. Полезно, если вы хотите загрузить меньшую библиотеку"
+                            link="https://glyphter.com/"
+                            linktext="glyphter.com"
+                            numbers="26"
+                        />
+
+                        <ContentAccardion
+                            title="Google Webfonts Helper"
+                            content="Беспроблемный способ самостоятельного размещения шрифтов Google"
+                            link="https://google-webfonts-helper.herokuapp.com/fonts"
+                            linktext="google-webfonts-helper.herokuapp.com"
+                            numbers="27"
+                        />
+
+                        <ContentAccardion
+                            title="Rough Font Awesome"
+                            content="Когда RoughJS встречается с Font Awesome"
+                            link="https://djamshed.github.io/rough-awesome-font/dist/"
+                            linktext="djamshed.github.io"
+                            numbers="28"
+                        />
                     </div>
                 </div>
             </div>
