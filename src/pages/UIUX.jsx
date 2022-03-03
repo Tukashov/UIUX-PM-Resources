@@ -231,12 +231,12 @@ function Home() {
                             content="Создавайте уникальные сцены с помощью иллюстраций"
                             link="https://control.rocks/"
                             linktext="control.rocks"
-                            numbers="28"
+                            numbers=""
                         />
 
                         <h1 className='UIUX-All-Blocks__Title'>Шрифты</h1>
                         <p className='UIUX-All-Blocks__Desc'>Веб-сайты, которые предлагают бесплатные шрифты, а также инструменты на основе шрифтов.👇</p>
-                        
+
                         <ContentAccardion
                             title="Google Fonts"
                             content="Библиотека около 1000 бесплатных лицензированных семейств шрифтов."
@@ -453,12 +453,383 @@ function Home() {
                             numbers="27"
                         />
 
+                        <h1 className='UIUX-All-Blocks__Title'>Цвета</h1>
+                        <p className='UIUX-All-Blocks__Desc'>Веб-сайты и ресурсы, помогающие с выбором цветов.👇</p>
+
                         <ContentAccardion
-                            title="Rough Font Awesome"
-                            content="Когда RoughJS встречается с Font Awesome"
-                            link="https://djamshed.github.io/rough-awesome-font/dist/"
-                            linktext="djamshed.github.io"
+                            title="Colormind.io"
+                            content="Генератор цветовой палитры"
+                            link="http://colormind.io/"
+                            linktext="colormind.io"
+                            numbers="1"
+                        />
+
+                        <ContentAccardion
+                            title="ColorCurves.app"
+                            content="Генератор цветовой палитры, который использует кривые для создания цветовых палитр"
+                            link="https://colorcurves.app/"
+                            linktext="colorcurves.app"
+                            numbers="2"
+                        />
+
+                        <ContentAccardion
+                            title="Coolors"
+                            content="Создайте идеальную палитру или вдохновитесь тысячами красивых цветовых схем"
+                            link="https://coolors.co/"
+                            linktext="coolors.co"
+                            numbers="3"
+                        />
+
+                        <ContentAccardion
+                            title="HTML Color Codes"
+                            content="Получите цветовые коды HTML, шестнадцатеричные коды цветов, значения RGB и HSL с помощью нашей палитры цветов, цветовой диаграммы и названий цветов HTML."
+                            link="https://htmlcolorcodes.com/"
+                            linktext="htmlcolorcodes.com"
+                            numbers="4"
+                        />
+
+                        <ContentAccardion
+                            title="Colors & Fonts"
+                            content="Кураторская библиотека цветов, шрифтов и ресурсов"
+                            link="https://www.colorsandfonts.com/"
+                            linktext="www.colorsandfonts.com"
+                            numbers="5"
+                        />
+
+                        <ContentAccardion
+                            title="Palette List"
+                            content="Выберите 2 цвета, которые вам нравятся, и инструмент сгенерирует для вас тысячи палитр."
+                            link="https://www.palettelist.com/"
+                            linktext="www.palettelist.com"
+                            numbers="6"
+                        />
+
+                        <ContentAccardion
+                            title="Google Material Color Tool"
+                            content="Официальный инструмент цветовой палитры материалов Google"
+                            link="https://material.io/resources/color/"
+                            linktext="material.io"
+                            numbers="7"
+                        />
+
+                        <ContentAccardion
+                            title="Material Palette"
+                            content="Свободный выбор палитр, значков и цветов для Material Design"
+                            link="https://www.materialpalette.com/"
+                            linktext="www.materialpalette.com"
+                            numbers="8"
+                        />
+
+                        <ContentAccardion
+                            title="ColorSpace"
+                            content="Создание красивых цветовых палитр из одного цвета"
+                            link="https://mycolor.space/"
+                            linktext="mycolor.space"
+                            numbers="9"
+                        />
+
+                        <ContentAccardion
+                            title="FlatUIColors"
+                            content="Красивый набор цветовых палитр с различными вкусами"
+                            link="https://flatuicolors.com/"
+                            linktext="flatuicolors.com"
+                            numbers="10"
+                        />
+
+                        <ContentAccardion
+                            title="Adobe Color"
+                            content="Создавайте цветовые палитры, извлекайте градиенты из изображений и т. д."
+                            link="https://color.adobe.com/create"
+                            linktext="color.adobe.com"
+                            numbers="11"
+                        />
+
+                        <ContentAccardion
+                            title="Colorsinspo"
+                            content="Универсальный ресурс, где можно найти все о цветах"
+                            link="https://colorsinspo.com/"
+                            linktext="colorsinspo.com"
+                            numbers="12"
+                        />
+
+                        <ContentAccardion
+                            title="ColorsWall"
+                            content="Место для хранения ваших цветовых палитр и создания палитры в один клик"
+                            link="https://colorswall.com/"
+                            linktext="colorswall.com"
+                            numbers="13"
+                        />
+
+                        <ContentAccardion
+                            title="Happyhues"
+                            content="Happy Hues — это сайт вдохновения цветовой палитры, который служит реальным примером того, как цвета могут быть использованы в ваших дизайнерских проектах Маккензи Чайлд."
+                            link="https://www.happyhues.co/"
+                            linktext="www.happyhues.co"
+                            numbers="14"
+                        />
+
+                        <ContentAccardion
+                            title="Adobe Trends"
+                            content="Узнайте о текущих цветовых тенденциях в различных отраслях от творческих сообществ на Behance и Adobe Stock."
+                            link="https://color.adobe.com/trends"
+                            linktext="color.adobe.com"
+                            numbers="15"
+                        />
+
+                        <ContentAccardion
+                            title="Color Hunt"
+                            content="Бесплатная и открытая платформа для цветового вдохновения с тысячами модных цветовых палитр, отобранных вручную."
+                            link="https://colorhunt.co/"
+                            linktext="colorhunt.co"
+                            numbers="16"
+                        />
+
+                        <ContentAccardion
+                            title="Gradient Hunt"
+                            content="Бесплатная и открытая платформа для вдохновения градиентом с тысячами модных цветовых градиентов, отобранных вручную."
+                            link="https://gradienthunt.com/"
+                            linktext="gradienthunt.com"
+                            numbers="17"
+                        />
+
+                        <ContentAccardion
+                            title="Web Gradients"
+                            content="Бесплатный веб-сайт для поиска хороших градиентов CSS"
+                            link="https://webgradients.com/"
+                            linktext="webgradients.com"
+                            numbers="18"
+                        />
+
+                        <ContentAccardion
+                            title="ColorBox"
+                            content="Бесплатный веб-сайт для создания набора цветов"
+                            link="https://www.colorbox.io/"
+                            linktext="www.colorbox.io"
+                            numbers="19"
+                        />
+
+                        <ContentAccardion
+                            title="https://www.colorbox.io/"
+                            content="Бесплатный веб-сайт для создания пользовательского градиента и несколько примеров градиента."
+                            link="https://cssgradient.io/"
+                            linktext="cssgradient.io"
+                            numbers="20"
+                        />
+
+                        <ContentAccardion
+                            title="Gradienta"
+                            content="Чистые градиенты css и jpg"
+                            link="https://gradienta.io/"
+                            linktext="gradienta.io"
+                            numbers="21"
+                        />
+
+                        <ContentAccardion
+                            title="UI Gradients"
+                            content="Генератор цветов градиентов пользовательского интерфейса"
+                            link="https://uigradients.com/"
+                            linktext="uigradients.com"
+                            numbers="22"
+                        />
+
+                        <ContentAccardion
+                            title="Palette Generator"
+                            content="Создание новой цветовой палитры при каждом нажатии пробела"
+                            link="https://palettegenerator.colorion.co/"
+                            linktext="palettegenerator.colorion.co"
+                            numbers="23"
+                        />
+
+                        <ContentAccardion
+                            title="Material Palettes"
+                            content="1000+ палитр Material Design"
+                            link="https://material.colorion.co/"
+                            linktext="material.colorion.co"
+                            numbers="24"
+                        />
+
+                        <ContentAccardion
+                            title="Grabient"
+                            content="Выбор градиента"
+                            link="https://www.grabient.com/"
+                            linktext="www.grabient.com"
+                            numbers="25"
+                        />
+
+                        <ContentAccardion
+                            title="ShadeSwash"
+                            content="Быстрое создание оттенков любого цвета"
+                            link="https://shadeswash.netlify.app/"
+                            linktext="shadeswash.netlify.app"
+                            numbers="26"
+                        />
+
+                        <ContentAccardion
+                            title="BrandColors"
+                            content="Самая большая коллекция официальных цветовых кодов бренда"
+                            link="http://brandcolors.net/"
+                            linktext="brandcolors.net"
+                            numbers="27"
+                        />
+
+                        <ContentAccardion
+                            title="BRAND PALETTES"
+                            content="Цветовые коды и палитры логотипа"
+                            link="https://brandpalettes.com/"
+                            linktext="brandpalettes.com"
                             numbers="28"
+                        />
+
+                        <ContentAccardion
+                            title="Material Design Palette Generator"
+                            content="Создание темы и цветовой палитры в стиле Material Design"
+                            link="http://mcg.mbitson.com/"
+                            linktext="mcg.mbitson.com"
+                            numbers="29"
+                        />
+
+                        <ContentAccardion
+                            title="Colorate"
+                            content="Инструмент цветовой схемы для дизайнеров и разработчиков. Это поможет вам черпать вдохновение и послужит ресурсом для работы с цветом."
+                            link="https://colorate.azurewebsites.net/"
+                            linktext="colorate.azurewebsites.net"
+                            numbers="30"
+                        />
+
+                        <ContentAccardion
+                            title="0to255"
+                            content="Цветной инструмент, который позволяет легко осветлять и затемнять цвета. Он идеально подходит для состояний наведения, границ, градиентов и многого другого."
+                            link="https://www.0to255.com/"
+                            linktext="www.0to255.com"
+                            numbers="31"
+                        />
+
+                        <ContentAccardion
+                            title="Color Blender"
+                            content="Инструмент, который показывает средние цвета между двумя цветами."
+                            link="https://meyerweb.com/eric/tools/color-blend/#:::hex"
+                            linktext="meyerweb.com"
+                            numbers="32"
+                        />
+
+                        <ContentAccardion
+                            title="Gradient Buttons"
+                            content="Готовые к использованию кнопки градиента копирования/вставки"
+                            link="https://gradientbuttons.colorion.co/"
+                            linktext="gradientbuttons.colorion.co"
+                            numbers="33"
+                        />
+
+                        <ContentAccardion
+                            title="Khroma"
+                            content="Khroma использует искусственный интеллект, чтобы узнать, какие цвета вам нравятся, и создает безграничные палитры, которые вы можете открывать, искать и сохранять."
+                            link="http://khroma.co/"
+                            linktext="khroma.co"
+                            numbers="34"
+                        />
+
+                        <ContentAccardion
+                            title="whocanuse"
+                            content="Инструмент, который привлекает внимание и понимание того, как цветовой контраст может влиять на разных людей с нарушениями зрения."
+                            link="https://whocanuse.com/"
+                            linktext="whocanuse.com"
+                            numbers="35"
+                        />
+
+                        <ContentAccardion
+                            title="Colorable"
+                            content="Тестер контраста сочетания цветов"
+                            link="https://colorable.jxnblk.com/"
+                            linktext="colorable.jxnblk.com"
+                            numbers="36"
+                        />
+
+                        <ContentAccardion
+                            title="Color Hex Picker"
+                            content="Инструмент для получения шестнадцатеричного кода вместе с названием цвета."
+                            link="https://colorhexpicker.com/"
+                            linktext="colorhexpicker.com"
+                            numbers="37"
+                        />
+
+                        <ContentAccardion
+                            title="Saruwakakun"
+                            content="Потрясающая цветовая схема для дизайна веб-сайтов и приложений с предварительным просмотром"
+                            link="https://saruwakakun.com/en/color-ideas"
+                            linktext="saruwakakun.com"
+                            numbers="38"
+                        />
+
+                        <ContentAccardion
+                            title="Paletton"
+                            content="Paletton.com — это дизайнерский инструмент для работы с цветом, предназначенный для создания сочетаний цветов, которые хорошо сочетаются друг с другом."
+                            link="https://paletton.com/"
+                            linktext="paletton.com"
+                            numbers="39"
+                        />
+
+                        <ContentAccardion
+                            title="Colorzilla"
+                            content="Мощный онлайн-редактор градиентов CSS, похожий на фотошоп."
+                            link="https://www.colorzilla.com/"
+                            linktext="www.colorzilla.com"
+                            numbers="40"
+                        />
+
+                        <ContentAccardion
+                            title="Image Color Picker"
+                            content="Выбор цвета изображения и генератор палитры"
+                            link="https://www.appypie.com/design/image-color-picker/"
+                            linktext="www.appypie.com"
+                            numbers="41"
+                        />
+
+                        <ContentAccardion
+                            title="CombineCOLORS"
+                            content="Инструмент для смешивания цветов"
+                            link="https://combinecolors.com/"
+                            linktext="combinecolors.com"
+                            numbers="42"
+                        />
+
+                        <ContentAccardion
+                            title="Color Lovers"
+                            content="Он покажет цветовые схемы, которые популярны во внешнем мире"
+                            link="https://www.colourlovers.com/palettes"
+                            linktext="www.colourlovers.com"
+                            numbers="43"
+                        />
+
+                        <ContentAccardion
+                            title="HTML CSS Color"
+                            content="Бесплатные онлайн-инструменты Color (США) или Color (Великобритания): информация, генератор градиентов, цветовые круги и т. д."
+                            link="https://www.htmlcsscolor.com/"
+                            linktext="www.htmlcsscolor.com"
+                            numbers="44"
+                        />
+
+                        <ContentAccardion
+                            title="HEX Color Codes"
+                            content="Он получает цветовые коды HTML, цветовые коды Hex, значения RGB и HSL с нашей палитрой цветов, диаграммой цветов и именами цветов HTML."
+                            link="https://hexcolorcodes.org/"
+                            linktext="hexcolorcodes.org"
+                            numbers="45"
+                        />
+
+                        <ContentAccardion
+                            title="CoolHue 2.0"
+                            content="Бесплатный инструмент, который показывает различные примеры градиентов в формате CSS и PNG."
+                            link="https://webkul.github.io/coolhue/"
+                            linktext="webkul.github.io"
+                            numbers="46"
+                        />
+
+                        <ContentAccardion
+                            title="Colors.lol"
+                            content="Интересные цветовые палитры, сгенерированные ботом Twitter, для каждого цвета есть шестнадцатеричные коды и описательные названия."
+                            link="https://colors.lol/"
+                            linktext="colors.lol"
+                            numbers="47"
                         />
                     </div>
                 </div>
